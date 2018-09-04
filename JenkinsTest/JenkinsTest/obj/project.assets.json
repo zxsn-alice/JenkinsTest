@@ -11506,11 +11506,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\users\\irentals\\source\\repos\\JenkinsTest\\JenkinsTest\\JenkinsTest.csproj",
+      "projectUniqueName": "D:\\MyWork\\JenkinsTest\\JenkinsTest\\JenkinsTest\\JenkinsTest.csproj",
       "projectName": "JenkinsTest",
-      "projectPath": "c:\\users\\irentals\\source\\repos\\JenkinsTest\\JenkinsTest\\JenkinsTest.csproj",
+      "projectPath": "D:\\MyWork\\JenkinsTest\\JenkinsTest\\JenkinsTest\\JenkinsTest.csproj",
       "packagesPath": "C:\\Users\\iRentals\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\irentals\\source\\repos\\JenkinsTest\\JenkinsTest\\obj\\",
+      "outputPath": "D:\\MyWork\\JenkinsTest\\JenkinsTest\\JenkinsTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
