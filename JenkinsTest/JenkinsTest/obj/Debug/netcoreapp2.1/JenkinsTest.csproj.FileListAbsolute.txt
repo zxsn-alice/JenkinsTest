@@ -30,3 +30,4 @@ D:\MyWork\JenkinsTest\JenkinsTest\JenkinsTest\obj\Debug\netcoreapp2.1\JenkinsTes
 D:\MyWork\JenkinsTest\JenkinsTest\JenkinsTest\obj\Debug\netcoreapp2.1\JenkinsTest.pdb
 D:\MyWork\JenkinsTest\JenkinsTest\JenkinsTest\obj\Debug\netcoreapp2.1\JenkinsTest.csproj.CopyComplete
 D:\MyWork\JenkinsTest\JenkinsTest\JenkinsTest\bin\Debug\netcoreapp2.1\JenkinsTest.xml
+D:\MyWork\JenkinsTest\JenkinsTest\JenkinsTest\obj\Debug\netcoreapp2.1\JenkinsTest.csprojAssemblyReference.cache
