@@ -14,6 +14,7 @@ namespace JenkinsTest
     {
         public static void Main(string[] args)
         {
+            var version = "2.1.4";
             CreateWebHostBuilder(args).Build().Run();
         }
 
