@@ -20,8 +20,8 @@ cp ./bin/Debug/netcoreapp2.1/JenkinsTest.xml ./bin/Release/netcoreapp2.1/publish
 echo '============================end build======================================='
 
 echo '============删除原有容器和镜像================' 
-docker stop jenkinstest
-docker rm jenkinstest
+docker stop jenkinsTest
+docker rm jenkinsTest
 docker rmi jenkinstest:lxq
 echo '============================end delete======================================='
 
